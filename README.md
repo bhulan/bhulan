@@ -13,8 +13,13 @@ I'm currently pursuing my B.Tech in Electronics & Instrumentation Engineering fr
 - 😄 Pronouns: He/Him 
 <br />
 <!-- GitHub Stats -->
-<h2 align="center">My Github Statistics: </h2>   
+<h2 align="center">My Github Statistics: </h2> 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhulan&show_icons=true&locale=en&layout=compact" alt="bhulan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhulan&show_icons=true&locale=en" alt="bhulan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arup-deb&" alt="arup-deb" /></p>
 <p align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=bhulan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </p>
