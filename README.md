@@ -1,6 +1,4 @@
 ### Hi there 👋
-<img align="right" alt="Coding" width="350" height="350" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhulan&label=Profile%20views&color=0e75b6&style=flat" alt="bhulan" /> </p>
 
 ### I'm Bhulan Deb , Welcome to my GitHub Profile!
 I'm currently pursuing my B.Tech in Electronics & Instrumentation Engineering from NIT Agartala.
